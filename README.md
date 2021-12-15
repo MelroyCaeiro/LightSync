@@ -9,6 +9,10 @@ FEATURES:
 
 Version 2 (Dominant color identification & HTTP requests test)
 
+<p align="center">
+  <img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018188.jpg" width="360" height="800">
+</p>
+
 <center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018188.jpg" width="360" height="800"></center>
 
 <center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018229.jpg" width="360" height="800"></center>
