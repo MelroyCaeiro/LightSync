@@ -13,6 +13,7 @@ Version 2 (Dominant color identification & HTTP requests test)
   <img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018188.jpg" width="360" height="800">
   <br>
   <img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018229.jpg" width="360" height="800">
+  <img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018253.jpg" width="360" height="800">
 </p>
 
 <center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018188.jpg" width="360" height="800"></center>
