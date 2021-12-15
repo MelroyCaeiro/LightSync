@@ -3,7 +3,9 @@ Flutter application that changes the colour of your connected WS2812B LED strip 
 
 Version 1 (NowPlaying package test)
 
-![2400x1080](https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018335.jpg){:height="50%" width="50%"}
+![2400x1080](https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018335.jpg)
+
+<img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018335.jpg" width="360" height="800">
 
 
 Version 2 (Dominant color identification & HTTP requests test)
