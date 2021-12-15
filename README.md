@@ -5,8 +5,20 @@ Version 1 (NowPlaying package test)
 
 <center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018335.jpg" width="360" height="800"></center>
 
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018270.jpg" width="360" height="800"></center>
+
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018286.jpg" width="360" height="800"></center>
+
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018318.jpg" width="360" height="800"></center>
+
 
 
 Version 2 (Dominant color identification & HTTP requests test)
 
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018229.jpg" width="360" height="800"></center>
+
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018253.jpg" width="360" height="800"></center>
+
 <center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018159.jpg" width="360" height="800"></center>
+
+<center><img src="https://github.com/MelroyCaeiro/LightSync/blob/main/Screenshots/1639541018188.jpg" width="360" height="800"></center>
